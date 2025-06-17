@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevinReid
 - 👀 I’m interested in data, coding, fashion and gaming
-- 🌱 I’m currently learning python, powerBI, SQL, calculus, and secondary mortgage marketing
+- 🌱 I’m currently learning TypeScript, vector database management, Agentic AI, Kanji (Japanese Script)
 - 💞️  Check Out My most recent AI software integration project built in python using the arcade library, render, flask, and openAI Apis.
 - here -> [ Tarot-generate-arcade](https://github.com/DevinReid/Tarot_Generate_Arcade)
 - 📫 How to reach me: Dreid97@gmail.com
